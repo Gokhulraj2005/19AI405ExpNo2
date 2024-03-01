@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: A.ARUVI
-<h3>Register Number:212222230014
+<h3>Name: GOKHULRAJ V
+<h3>Register Number:21222323004889
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
